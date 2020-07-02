@@ -4,13 +4,13 @@ This repository contains the implementation of Neural Machine Translation from A
 
 ### Dependencies
 
-Python 3
+- Python 3
 
-NumPy
+- NumPy
 
-Keras
+- Keras
 
-NLTK (for tokenization, make sure to download punkt)
+- NLTK 
 
 
 
