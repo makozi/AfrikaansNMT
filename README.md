@@ -39,6 +39,10 @@ Run evaluate_model.py to evaluate the accuracy of the model on both train and te
 - The model performs pretty well on train set and have been generalized to perform well on test set.
 
 
+### Reports
+
+The report on this project can be found [here](https://drive.google.com/file/d/1ZW9OVuWEo9QNbF5Z8lFXP6HO21YGDQsW/view?usp=drivesdk)
+
 
 ### References
 
