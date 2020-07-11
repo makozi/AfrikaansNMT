@@ -48,9 +48,7 @@ The report on this project can be found [here](https://drive.google.com/file/d/1
 
 This work builds extensively on the following works:
 
-1. A. Joulin, P. Bojanowski, T. Mikolov, H. Jegou, E. Grave, Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion, 2018. (https://arxiv.org/abs/1804.07745)
-
-2. G. Lample, A. Conneau, L. Denoyer, MA. Ranzato, Unsupervised Machine Translation With Monolingual Data Only, 2018a. (https://arxiv.org/abs/1711.00043)
+1. G. Lample, A. Conneau, L. Denoyer, MA. Ranzato, Unsupervised Machine Translation With Monolingual Data Only, 2018a. (https://arxiv.org/abs/1711.00043)
 
 Thanks to [Tatoeba Project](https://tatoeba.org/) for the dataset.
 
