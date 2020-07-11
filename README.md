@@ -1,5 +1,7 @@
 # Neural Machine Translation from Afrikaans to English 
 
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+
 This repository contains the implementation of Neural Machine Translation from Afrikaans to English.
 
 ### Dataset
