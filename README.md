@@ -8,7 +8,7 @@ The dataset contains pairs of English - Afrikaans sentences. ```Afr.txt```  was 
 
 ### Preprocessing the dataset
 
-```Afrikaans_English.ipynb```: The data was cleanedand broken  it into smaller training and testing dataset. Then ```english-afrikaan-both.pkl```, ```english-afrikaan-train.pkl``` and ```english-afrikaan-test.pkl```  were generated for training and testing purposes.
+```Afrikaans_English.ipynb```: The data was cleaned and broken into smaller training and testing dataset. Then ```english-afrikaan-both.pkl```, ```english-afrikaan-train.pkl``` and ```english-afrikaan-test.pkl```  were generated for training and testing purposes.
 
 The preprocessing of the data involves:
 
@@ -58,4 +58,4 @@ Thanks to [Tatoeba Project](https://tatoeba.org/) for the dataset.
 See the [LICENSE](https://github.com/makozi/Udacity-ML-Engineer-Capstone-Project/blob/master/LICENSE) file for more details.
 
 
-##### By Marizu-Ibewiro Makozi
+##### By Marizu-Ibewiro Makozi.
