@@ -4,7 +4,7 @@ This repository contains the implementation of Neural Machine Translation from A
 
 ### Dataset
 
-The dataset contains pairs of English - Afrikaans sentences. ```Afr.txt``  was gotten from [Tatoeba Project](https://tatoeba.org/).
+The dataset contains pairs of English - Afrikaans sentences. ```Afr.txt```  was gotten from [Tatoeba Project](https://tatoeba.org/).
 
 ### Preprocessing the dataset
 
